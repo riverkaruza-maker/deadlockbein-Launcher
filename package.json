@@ -1,7 +1,7 @@
 {
   "name": "helioslauncher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
+  "productName": "DeadlockBEIN Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
@@ -47,6 +47,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/riverkaruza-maker/deadlockbein-Launcher.git"
+  },
+  "allowScripts": {
+    "electron@39.2.7": true
   }
 }
